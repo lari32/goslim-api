@@ -1,0 +1,6 @@
+# runmode: debug | release | test
+runmode: debug
+port: 8080
+name: api-server
+url: http://localhost:8080
+max_ping_count: 10
